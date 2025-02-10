@@ -1,5 +1,6 @@
 # sprint
 sprint numero 1
+![Captura de pantalla (274)](https://github.com/user-attachments/assets/cd65df53-7947-4a30-a459-5173635f1f14)
 
 <h2>Bibliogriafia</h2>
 
