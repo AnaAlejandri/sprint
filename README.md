@@ -1,4 +1,7 @@
 # sprint
+
+![Captura de pantalla (367)](https://github.com/user-attachments/assets/c4e37086-345b-4738-a539-c025f71663f1)
+
 sprint numero 1
 ![Captura de pantalla (274)](https://github.com/user-attachments/assets/cd65df53-7947-4a30-a459-5173635f1f14)
 <p>Un sprint es un período breve de tiempo fijo en el que un equipo de scrum trabaja para completar una cantidad de trabajo establecida, se intenta enfocar en que sea mas organizado y dividi las tareas que se tienen en las historias, buscando ser una herramienta efectiva para delegar responsabilidades y actividades segun lo que se requiere realizar con un periodo de tiempo establecido.<p>
